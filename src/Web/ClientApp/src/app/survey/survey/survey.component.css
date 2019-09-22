@@ -1,0 +1,227 @@
+
+.question-heading
+{
+  text-align: center;
+}
+
+.toppingHeading{
+  padding-top: 200px;
+}
+
+.heading{
+  padding-left: 225px;
+}
+
+.paragraph{
+
+  font-size: 20px;
+  font-weight: 400;
+  text-align: justify;
+
+  padding-bottom: 50px;
+  padding-right: 120px;
+}
+
+.toppingHeadingImage{
+  padding-top: 100px;
+  width: 700px;
+  height: 700px;
+  padding-left: 100px;
+}
+
+section {
+      height: 100%;
+        width: 100%;
+}
+
+
+.button{
+  margin-top: 20px;
+  font-size: 25px;
+  width: 160px;
+  height:160px;
+  border-radius: 50%;
+  border: none;
+  background-color: #4C84FF;
+  color: white;
+}
+
+.submit{
+  font-size: 20px;
+  color:white;
+  border-radius: 40px 40px 40px 40px;
+  border: none;
+  width: 180px;
+  height: 60px;
+  background-image: url(/assets/Images/survey.png);
+}
+
+.submit2{
+  font-size: 30px;
+  color:black;
+  border-radius: 40px 40px 40px 40px;
+  width: 230px;
+  height: 70px;
+  border: none;
+  background-color: rgb(80, 209, 97);
+}
+
+.btnClass{
+  padding-right: 190px;
+
+}
+
+.btnClassBottom{
+  text-align: center;
+  padding-top: 50px;
+
+}
+
+.image{
+  object-fit: inherit;
+  width: 100%;
+
+}
+
+.footer{
+  padding-top: 100px;
+  width: 100%;
+}
+
+.content-container1{
+  padding-left: 250px;
+}
+
+.list-style-one{
+	position:relative;
+}
+
+.list-style-one li{
+	position:relative;
+	font-size:20px;
+	line-height:24px;
+	color: #777777;
+	font-weight:400;
+	padding-left:35px;
+	margin-bottom: 12px;
+}
+
+.list-style-one li:before{
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	color:#2de9a1;
+	font-size:20px;
+	font-weight:600;
+
+}
+
+.market-section .content-column .inner-column .list-style-one{
+	margin-bottom:40px;
+}
+
+.inner-column .bold-text{
+  position:relative;
+	color:#3d415b;
+	font-size:18px;
+	line-height:1.7em;
+	font-weight:700;
+	margin-bottom:35px;
+  font-family: 'Quicksand', sans-serif;
+  position:relative;
+	color:#777777;
+	font-weight:500;
+	font-size:20px;
+	line-height:1.4em;
+	margin-top:32px;
+  margin-bottom:28px;
+
+}
+ .bold-text{
+   position:relative;
+	color:#3d415b;
+	font-size:35px;
+	font-weight:700;
+	line-height:1.8em;
+	margin-bottom:25px;
+ }
+
+.sec-title-two{
+	position:relative;
+	z-index: 1;
+	margin-bottom:55px;
+	padding-bottom:30px;
+}
+
+.sec-title-two:before{
+	position:absolute;
+	content:'';
+	left:0px;
+	bottom:0px;
+	width:52px;
+	height:2px;
+	background-color:#36ec88;
+}
+
+.sec-title-two h2{
+	position: relative;
+	display: block;
+	font-size:42px;
+	line-height: 1.3em;
+	color: #3d415b;
+	font-weight: 700;
+}
+
+.sec-title-two .title-text{
+	position:relative;
+	color:#777777;
+	font-size:24px;
+	line-height:1.5em;
+	margin-top:12px;
+}
+
+.sec-title-two.light .title-text,
+.sec-title-two.light h2{
+	color: #ffffff;
+}
+
+.sec-title-two.centered{
+	text-align:center;
+}
+
+.content-column{
+	position:relative;
+	margin-bottom:40px;
+}
+
+.content-column .inner-column{
+	position:relative;
+	padding-top:200px;
+}
+
+.content-column .inner-column:before{
+z-index: -1;
+	position:absolute;
+	content:'';
+	right:0px;
+	bottom:-180px;
+	width:1550px;
+	height:991px;
+	background:url(/assets/Images/pattern-6.png) no-repeat;
+	background-position:right bottom;
+}
+
+.content-column .inner-column .bold-text{
+	position:relative;
+	color:#3d415b;
+	font-size:18px;
+	line-height:1.7em;
+	font-weight:700;
+	margin-bottom:35px;
+	font-family: 'Quicksand', sans-serif;
+}
+
+
+.selectedFriendBtn{
+  background: rgb(46, 81, 156)!important;
+}
